@@ -12,6 +12,8 @@ public class Event {
     public String website;
     public String twitter;
     public String facebook;
+    public String youtube;
+    public String parleys;
     public String city;
     public List<String> tags = new ArrayList<>();
     public Type type;
